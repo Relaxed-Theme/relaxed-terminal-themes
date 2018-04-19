@@ -1,6 +1,6 @@
 {
   "name": "hyper-relaxed-afterglow",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A relaxed adaption of the Afterglow theme",
   "main": "index.js",
   "files": ["index.js"],
