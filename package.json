@@ -1,0 +1,19 @@
+{
+  "name": "hyper-relaxed-afterglow",
+  "version": "0.0.1",
+  "description": "A relaxed adaption of the Afterglow theme",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "mischah/relaxed-afterglow",
+  "keywords": [
+    "hyper",
+    "theme",
+    "hyperterm",
+    "hyper.app"
+  ],
+  "author": "Michael Kühnel",
+  "license": "MIT"
+}
