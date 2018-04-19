@@ -11,7 +11,7 @@ The theme only provides the colors. Please note additional usages in the screens
 
 The theme should be compatible with [Hyper](https://hyper.is/) 1.x and 2.x.
 
-![](screenshot-hyper.png)
+![Screenshot](hyper.png)
 
 ### Installation
 
@@ -30,11 +30,11 @@ _That’s really all you have to do. Hyper loads the plugin from the npm registr
 
 The theme should be compatible with all [iTerm2](https://iterm2.com/) versions.
 
-![](screenshot-iterm.png)
+![Screenshot](iterm.png)
 
 ### Installation
 
-Download [Relaxed-Afterglow.itermcolors](https://cdn.rawgit.com/mischah/Relaxed-Afterglow/1a9fc804/Relaxed-Afterglow.itermcolors). Double click to import into iTerm. 
+Download [Relaxed-Afterglow.itermcolors](https://cdn.rawgit.com/mischah/Relaxed-Afterglow/1a9fc804/Relaxed-Afterglow.itermcolors). Double click to import into iTerm.
 
 _You can change the themes in iTerm > Preferences > Profiles > [Profile Name] > Colors > Color Presets…_
 
