@@ -19,7 +19,7 @@ Open your `~/.hyper.js` file (Hyper > Preferences) and add `hyper-relaxed-afterg
 
 ```js
 …
-plugins: ['hyper-material-theme'],
+plugins: ['hyper-relaxed-afterglow'],
 …
 ```
 
