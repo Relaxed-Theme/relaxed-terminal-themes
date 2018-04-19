@@ -27,9 +27,9 @@ exports.decorateConfig = config => {
 		foregroundColor,
 		backgroundColor,
 		borderColor,
-		selectionColor: config.selectionColor || selectionColor,
+		selectionColor,
 		colors,
-		cursorColor: config.cursorColor || cursorColor,
+		cursorColor,
 		termCSS: `
 			${config.termCSS || ''}
 			::selection {
