@@ -2,6 +2,8 @@
 
 > A relaxed adaption of the Afterglow theme for iTerm and Hyper
 
+It was initially based on the [Afterglow iTerm Color Scheme](https://github.com/YabataDesign/afterglow-itermcolors) but evolved over time and currently has not much in common.
+
 - [Hyper](#hyper)
 - [iTerm](#iterm)
 
