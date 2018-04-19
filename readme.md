@@ -38,7 +38,7 @@ The theme should be compatible with all [iTerm2](https://iterm2.com/) versions.
 
 ### Installation
 
-Download <a href="https://rawgit.com/mischah/Relaxed-Afterglow/master/Relaxed-Afterglow.itermcolors" rel="nofollow" download>Relaxed-Afterglow.itermcolors</a>. Double click to import into iTerm.
+Download [Relaxed-Afterglow.itermcolors](https://gitcdn.link/repo/mischah/Relaxed-Afterglow/master/Relaxed-Afterglow.itermcolors). Double click to import into iTerm.
 
 **Note:**
 
@@ -53,7 +53,7 @@ The theme should be compatible with all Terminal versions.
 
 ### Installation
 
-Download <a href="https://rawgit.com/mischah/Relaxed-Afterglow/master/Relaxed-Afterglow.terminal" rel="nofollow" download>Relaxed-Afterglow.terminal</a>. Double click to import into Terminal.
+Download [Relaxed-Afterglow.terminal](https://gitcdn.link/repo/mischah/Relaxed-Afterglow/master/Relaxed-Afterglow.terminal). Double click to import into Terminal.
 
 **Note:**
 
