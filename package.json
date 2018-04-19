@@ -12,7 +12,9 @@
     "hyper",
     "theme",
     "hyperterm",
-    "hyper.app"
+		"hyper.app",
+		"afterglow",
+		"relaxed"
   ],
   "author": "Michael Kühnel",
   "license": "MIT"
