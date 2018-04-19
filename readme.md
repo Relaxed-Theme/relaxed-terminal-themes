@@ -34,7 +34,7 @@ The theme should be compatible with all [iTerm2](https://iterm2.com/) versions.
 
 ### Installation
 
-Download [Relaxed-Afterglow.itermcolors](Relaxed-Afterglow.itermcolors). Double click to import into iTerm. 
+Download [Relaxed-Afterglow.itermcolors](https://cdn.rawgit.com/mischah/Relaxed-Afterglow/1a9fc804/Relaxed-Afterglow.itermcolors). Double click to import into iTerm. 
 
 _You can change the themes in iTerm > Preferences > Profiles > [Profile Name] > Colors > Color Presets…_
 
