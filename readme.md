@@ -1,8 +1,10 @@
-# Relaxed Afterglow
+[![npm](https://img.shields.io/npm/dm/hyper-relaxed-afterglow.svg?label=DL)](https://www.npmjs.com/package/hyper-relaxed-afterglow)
 
-> A relaxed adaption of the Afterglow theme for iTerm and Hyper and the macOS Terminal
+# Relaxed
 
-It was initially based on the [Afterglow iTerm Color Scheme](https://github.com/YabataDesign/afterglow-itermcolors) but evolved over time and currently has not much in common.
+> A relaxed theme for iTerm and Hyper and the macOS Terminal to take a more relaxed view of things.
+
+This theme was initially based on the [Afterglow iTerm Color Scheme](https://github.com/YabataDesign/afterglow-itermcolors) but evolved over time and currently has not much in common.
 
 - [Hyper](#hyper)
 - [iTerm](#iterm)
@@ -18,11 +20,11 @@ The theme should be compatible with [Hyper](https://hyper.is/) 1.x and 2.x.
 
 ### Installation
 
-Open your `~/.hyper.js` file (Hyper > Preferences) and add `hyper-relaxed-afterglow` to the `plugins: []` array and safe the file.
+Open your `~/.hyper.js` file (Hyper > Preferences) and add `hyper-relaxed` to the `plugins: []` array and safe the file.
 
 ```js
 …
-plugins: ['hyper-relaxed-afterglow'],
+plugins: ['hyper-relaxed'],
 …
 ```
 
@@ -38,7 +40,7 @@ The theme should be compatible with all [iTerm2](https://iterm2.com/) versions.
 
 ### Installation
 
-Download [Relaxed-Afterglow.itermcolors](https://gitcdn.link/repo/mischah/Relaxed-Afterglow/master/Relaxed-Afterglow.itermcolors). Double click to import into iTerm.
+Download [Relaxed.itermcolors](https://gitcdn.link/repo/mischah/Relaxed/master/Relaxed.itermcolors). Double click to import into iTerm.
 
 **Note:**
 
@@ -53,7 +55,7 @@ The theme should be compatible with all Terminal versions.
 
 ### Installation
 
-Download [Relaxed-Afterglow.terminal](https://gitcdn.link/repo/mischah/Relaxed-Afterglow/master/Relaxed-Afterglow.terminal). Double click to import into Terminal.
+Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/Relaxed.terminal). Double click to import into Terminal.
 
 **Note:**
 
