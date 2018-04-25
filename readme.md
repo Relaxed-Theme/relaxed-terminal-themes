@@ -2,7 +2,7 @@
 
 # Relaxed
 
-> A relaxed theme to take a more relaxed view of thing. For iTerm, Hyper, the macOS Terminal and a bunch of others.
+> A relaxed theme to take a more relaxed view of things. For iTerm, Hyper, the macOS Terminal and a bunch of others.
 
 Available for:
 
