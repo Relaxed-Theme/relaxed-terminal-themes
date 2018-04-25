@@ -1,6 +1,6 @@
 {
   "name": "hyper-relaxed",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A relaxed theme to take a more relaxed view of things.",
   "main": "index.js",
   "files": ["index.js"],
