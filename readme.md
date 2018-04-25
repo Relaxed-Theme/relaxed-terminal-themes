@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/dm/hyper-relaxed-afterglow.svg?label=DL)](https://www.npmjs.com/package/hyper-relaxed-afterglow)
+[![npm](https://img.shields.io/npm/dm/hyper-relaxed.svg?label=DL)](https://www.npmjs.com/package/hyper-relaxed)
 
 # Relaxed
 
