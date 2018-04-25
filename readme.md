@@ -1,14 +1,15 @@
-[![npm](https://img.shields.io/npm/dm/hyper-relaxed.svg?label=DL)](https://www.npmjs.com/package/hyper-relaxed)
+[![npm](https://img.shields.io/npm/dm/hyper-relaxed.svg?label=hyper-relaxed&nbsp;downloads)](https://www.npmjs.com/package/hyper-relaxed)
 
 # Relaxed
 
-> A relaxed theme for iTerm and Hyper and the macOS Terminal to take a more relaxed view of things.
+> A relaxed theme to take a more relaxed view of thing. For iTerm, Hyper, the macOS Terminal and a bunch of others.
 
-This theme was initially based on the [Afterglow iTerm Color Scheme](https://github.com/YabataDesign/afterglow-itermcolors) but evolved over time and currently has not much in common.
+Available for:
 
 - [Hyper](#hyper)
 - [iTerm](#iterm)
 - [Terminal](#terminal)
+- [Additional formats](#additional-formats) (Konsole, PuTTY, Terminator, Termite, Xfce Terminal, Xresources)
 
 The theme only provides the colors. Please note additional usages in the screenshots: [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh), [Bullet Train for Oh My Zsh](https://github.com/caiogondim/bullet-train.zsh) and [Source Code Pro for Powerline](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
 
@@ -16,7 +17,7 @@ The theme only provides the colors. Please note additional usages in the screens
 
 The theme should be compatible with [Hyper](https://hyper.is/) 1.x and 2.x.
 
-![Screenshot](hyper.png)
+![Screenshot](screenshots/hyper.png)
 
 ### Installation
 
@@ -36,11 +37,11 @@ That’s really all you have to do. Hyper loads the plugin from the npm registry
 
 The theme should be compatible with all [iTerm2](https://iterm2.com/) versions.
 
-![Screenshot](iterm.png)
+![Screenshot](screenshots/iterm.png)
 
 ### Installation
 
-Download [Relaxed.itermcolors](https://gitcdn.link/repo/mischah/Relaxed/master/Relaxed.itermcolors). Double click to import into iTerm.
+Download [Relaxed.itermcolors](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.itermcolors). Double click to import into iTerm.
 
 **Note:**
 
@@ -51,11 +52,11 @@ Download [Relaxed.itermcolors](https://gitcdn.link/repo/mischah/Relaxed/master/R
 
 The theme should be compatible with all Terminal versions.
 
-![Screenshot](terminal.png)
+![Screenshot](screenshots/terminal.png)
 
 ### Installation
 
-Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/Relaxed.terminal). Double click to import into Terminal.
+Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.terminal). Double click to import into Terminal.
 
 **Note:**
 
@@ -63,6 +64,15 @@ Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/Rela
   - via `Terminal > Preferences > Profile > Standard`
 - Make sure to that new Terminal windows and tabs are openend with this theme
   - via `Terminal > Preferences > General`
+
+### Additional formats
+
+- [Konsole](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.colorscheme)
+- [PuTTY](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.reg)
+- [Terminator](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.config)
+- [Termite](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed)
+- [Xfce Terminal](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.theme)
+- [Xresources](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Xresources/Relaxed) (xterm, (u)rxvt, and other X11 applications)
 
 ## License
 
