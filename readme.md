@@ -21,7 +21,7 @@ The theme should be compatible with [Hyper](https://hyper.is/) 1.x and 2.x.
 
 ### Installation
 
-Open your `~/.hyper.js` file (Hyper > Preferences) and add `hyper-relaxed` to the `plugins: []` array and safe the file.
+Open your `~/.hyper.js` file (Hyper > Preferences) and add `hyper-relaxed` to the `plugins: []` array and save the file.
 
 ```js
 …
