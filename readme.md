@@ -13,6 +13,10 @@ Available for:
 
 The theme only provides the colors. Please note additional usages in the screenshots: [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh), [Bullet Train for Oh My Zsh](https://github.com/caiogondim/bullet-train.zsh) and [Source Code Pro for Powerline](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
 
+#### Relaxing your editor:
+
+* [Relaxed Theme for Visual Studio Code](https://github.com/Relaxed-Theme/vscode-theme-relaxed)
+
 ## Hyper
 
 The theme should be compatible with [Hyper](https://hyper.is/) 1.x and 2.x.
