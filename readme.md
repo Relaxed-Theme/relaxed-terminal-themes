@@ -15,6 +15,7 @@ The theme only provides the colors. Please note additional usages in the screens
 
 #### Relaxing your editor:
 
+* [Relaxed Theme for Atom](https://github.com/Relaxed-Theme/atom-relaxed-syntax)
 * [Relaxed Theme for Visual Studio Code](https://github.com/Relaxed-Theme/vscode-theme-relaxed)
 
 ## Hyper
