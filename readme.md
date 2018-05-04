@@ -9,7 +9,7 @@ Available for:
 - [Hyper](#hyper)
 - [iTerm](#iterm)
 - [Terminal](#terminal)
-- [Additional formats](#additional-formats) (Konsole, PuTTY, Terminator, Termite, Xfce Terminal, Xresources)
+- [Additional formats](#additional-formats) (ConEmu, Konsole, PuTTY, Terminator, Termite, Xfce Terminal, Xresources)
 
 The theme only provides the colors. Please note additional usages in the screenshots: [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh), [Bullet Train for Oh My Zsh](https://github.com/caiogondim/bullet-train.zsh) and [Source Code Pro for Powerline](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
 
@@ -72,6 +72,7 @@ Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/them
 
 ### Additional formats
 
+- [ConEmu](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.xml)
 - [Konsole](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.colorscheme)
 - [PuTTY](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.reg)
 - [Terminator](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.config)
