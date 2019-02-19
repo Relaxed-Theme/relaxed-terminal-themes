@@ -1,0 +1,32 @@
+# Relaxed theme
+colors:
+  primary:
+    background: '0x353a44'
+    foreground: '0xd9d9d9'
+
+  cursor:
+    text: '0x000000'
+    cursor: '0xd9d9d9'
+
+  # Normal colors
+  normal:
+    black:   '0x151515'
+    red:     '0xbc5653'
+    green:   '0x909d63'
+    yellow:  '0xebc17a'
+    blue:    '0x6a8799'
+    magenta: '0xb06698'
+    cyan:    '0xc9dfff'
+    white:   '0xd9d9d9'
+
+  # Bright colors
+  bright:
+    black:   '0x636363'
+    red:     '0xbc5653'
+    green:   '0x909d63'
+    yellow:  '0xebc17a'
+    blue:    '0x7eaac7'
+    magenta: '0xb06698'
+    cyan:    '0xacbbd0'
+    white:   '0xf7f7f7'
+

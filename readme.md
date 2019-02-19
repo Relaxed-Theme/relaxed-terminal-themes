@@ -72,6 +72,7 @@ Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/them
 
 ### Additional formats
 
+- [Alacritty](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Alacritty/Relaxed)
 - [ConEmu](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.xml)
 - [Konsole](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.colorscheme)
 - [Mutt](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.muttrc)
