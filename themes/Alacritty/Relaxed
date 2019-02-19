@@ -1,7 +1,7 @@
 # Relaxed theme
 colors:
   primary:
-    background: '0x000000'
+    background: '0x353a44'
     foreground: '0xd9d9d9'
 
   cursor:
