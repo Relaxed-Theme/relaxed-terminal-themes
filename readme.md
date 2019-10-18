@@ -52,7 +52,7 @@ Download [Relaxed.itermcolors](https://gitcdn.link/repo/mischah/Relaxed/master/t
 **Note:**
 
 - You can change the themes via
-  - `iTerm > Preferences > Profiles > [Profile Name] > Colors > Color Presets…`
+  - `iTerm > Preferences > Profiles > [Profile Name] > Colors > Color Presets …`
 
 ## Terminal
 
