@@ -47,7 +47,7 @@ The theme should be compatible with all [iTerm2](https://iterm2.com/) versions.
 
 ### Installation
 
-Download [Relaxed.itermcolors](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.itermcolors). Double click to import into iTerm.
+Download [Relaxed.itermcolors](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.itermcolors). Double click to import into iTerm.
 
 **Note:**
 
@@ -62,7 +62,7 @@ The theme should be compatible with all Terminal versions.
 
 ### Installation
 
-Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.terminal). Double click to import into Terminal.
+Download [Relaxed.terminal](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.terminal). Double click to import into Terminal.
 
 **Note:**
 
@@ -85,15 +85,15 @@ Download [Relaxed.terminal](https://gitcdn.link/repo/mischah/Relaxed/master/them
 
 ## Additional formats
 
-- [Alacritty](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Alacritty/Relaxed)
-- [ConEmu](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.xml)
-- [Konsole](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.colorscheme)
-- [Mutt](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.muttrc)
-- [PuTTY](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.reg)
-- [Terminator](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.config)
-- [Termite](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed)
-- [Xfce Terminal](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Relaxed.theme)
-- [Xresources](https://gitcdn.link/repo/mischah/Relaxed/master/themes/Xresources/Relaxed) (xterm, (u)rxvt, and other X11 applications)
+- [Alacritty](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Alacritty/Relaxed)
+- [ConEmu](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.xml)
+- [Konsole](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.colorscheme)
+- [Mutt](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.muttrc)
+- [PuTTY](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.reg)
+- [Terminator](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.config)
+- [Termite](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed)
+- [Xfce Terminal](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Relaxed.theme)
+- [Xresources](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-terminal-themes/master/themes/Xresources/Relaxed) (xterm, (u)rxvt, and other X11 applications)
 
 ## License
 
