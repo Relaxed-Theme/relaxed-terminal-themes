@@ -9,7 +9,7 @@ Available for:
 - [Hyper](#hyper)
 - [iTerm](#iterm)
 - [Terminal](#terminal)
-- [Terminus](#terminus)
+- [Tabby](#Tabby)
 - [Additional formats](#additional-formats) (Alacritty, ConEmu, Konsole, Mutt, PuTTY, Terminator, Termite, Xfce Terminal, Xresources)
 
 The theme only provides the colors. Please note additional usages in the screenshots: [Oh My Zsh](https://github.com/robbyrussell/oh-my-zsh), [Bullet Train for Oh My Zsh](https://github.com/caiogondim/bullet-train.zsh) and [Source Code Pro for Powerline](https://github.com/powerline/fonts/blob/master/SourceCodePro/Source%20Code%20Pro%20for%20Powerline.otf)
@@ -71,7 +71,7 @@ Download [Relaxed.terminal](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-termin
 - Make sure to that new Terminal windows and tabs are openend with this theme
   - via `Terminal > Preferences > General`
 
-## Terminus
+## Tabby (formerly Terminus)
 
 ![Screenshot](screenshots/terminus.png)
 
