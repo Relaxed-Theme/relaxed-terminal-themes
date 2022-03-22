@@ -78,10 +78,7 @@ Download [Relaxed.terminal](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-termin
 ### Installation
 
 1. Go to Plugins in Settings.
-1. Install `terminus-relaxed-theme` in the available plugins and restart.
-1. Select »Relaxed« in the Theme Dropdown menu.
-1. Go to Appearance in Settings.
-1. Select »Relaxed« in the Colorscheme Dropdown menu.
+1. Install `relaxed-theme` in the available plugins and restart.
 
 ## Additional formats
 
