@@ -73,7 +73,7 @@ Download [Relaxed.terminal](https://gitcdn.link/cdn/Relaxed-Theme/relaxed-termin
 
 ## Tabby (formerly Terminus)
 
-![Screenshot](screenshots/terminus.png)
+![Screenshot](screenshots/tabby.png)
 
 ### Installation
 
